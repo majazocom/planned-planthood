@@ -1,4 +1,4 @@
-# planned-planthood
+# Planned Planthood
 Övning i DOM-manipulation, listmetoder och flexbox
 
 Våren nalkas och det är dags att börja planera sina planteringar!
