@@ -8,7 +8,7 @@ Kunden bor i ett kollektiv där de har en kolonilott på innergården och det ka
 
 Kundens kravspec:
 * Mycket bilder för visuell effekt
-* Kunna lägga in en planta med information om vem som skall plantera, vad som skall planteras och självklart EN BILD
+* Kunna lägga in en planta med information om vem som skall plantera, vad som skall planteras, när det skall planteras och självklart EN BILD
 * Kunna ta bort plantan när den har planterats
 
 Bonus:
