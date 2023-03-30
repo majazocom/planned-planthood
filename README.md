@@ -13,3 +13,4 @@ Kundens kravspec:
 
 Bonus:
 * De vill kunna refresha sidan och se att alla inlagda plantor är kvar
+* Planterade plantor skall synas i en separat vy
