@@ -10,3 +10,6 @@ Kundens kravspec:
 * Mycket bilder för visuell effekt
 * Kunna lägga in en planta med information om vem som skall plantera, vad som skall planteras och självklart EN BILD
 * Kunna ta bort plantan när den har planterats
+
+Bonus:
+* De vill kunna refresha sidan och se att alla inlagda plantor är kvar
