@@ -12,6 +12,7 @@ Kundens kravspec:
 * Kunna ta bort plantan när den har planterats
 
 Bonus:
+* De planterade (borttagna) plantorna skall sparas i en ny lista
 * De vill kunna refresha sidan och se att alla inlagda plantor är kvar
 * Planterade plantor skall synas i en separat vy
 
